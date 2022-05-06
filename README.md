@@ -1,4 +1,4 @@
-<h1 align="center">Robot Gladiators</h1>
+<h1 align="center">Robot Gladiators 🤖</h1>
 <p align="center">Module #3</p>
 
 ## Live Demo: 
